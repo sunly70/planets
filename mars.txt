@@ -3,4 +3,7 @@ The two moons may be a problem for Wolfman.
 <<<<<<< HEAD
 =======
 But the Mummy will appreciate the lack of humidity.
+<<<<<<< HEAD
+>>>>>>> parent of abb1175... Warnings about Venus
+=======
 >>>>>>> parent of abb1175... Warnings about Venus
